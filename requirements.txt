@@ -16,3 +16,4 @@ yadisk
 clip @ git+https://github.com/openai/CLIP.git
 python-dotenv
 shap
+h5py
