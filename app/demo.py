@@ -1,4 +1,5 @@
 import sys
+sys.path.append("/mount/src/avito-kaggle")
 from dataclasses import dataclass
 from pathlib import Path
 import logging
@@ -19,7 +20,7 @@ from dotenv import load_dotenv
 import os
 import yadisk
 load_dotenv()
-sys.path.append("/mount/src/avito-kaggle")
+
 
 
 
