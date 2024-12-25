@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 import os
 import yadisk
 load_dotenv()
-sys.path.append("../")
+sys.path.append("/mount/src/avito-kaggle")
 
 
 
